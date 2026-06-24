@@ -48,5 +48,5 @@ Data validation and protection
 ![cases](cases.png)
 ![overview](overview.png)
 ![dashoboard](dashboard.png)
-![summary](summary report.png)
+![summary](summaryreport.png)
 ![emailNotification](emailnotification.jpeg)
