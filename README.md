@@ -41,10 +41,10 @@ Data validation and protection
 
 ##System OverView(ScreenShorts)
 ![landing page](landingpage.png)
-![register](screenshot/registerUser.png)
-![login page](screenshot/loginpage.png)
-![Dashboard page](screenshot/DashboRD.png)
-![cases](screenshot/cases.png)
-![overview](screenshot/overview.png)
-![summary](screenshot/summaryreport.png)
-
+![register](registerUser.png)
+![login page](loginpage.png)
+![Dashboard page](DashboRD.png)
+![cases](cases.png)
+![overview](overview.png)
+![summary](summaryreport.png)
+![emailNotification](emailnotification.png)
