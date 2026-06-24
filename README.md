@@ -37,3 +37,14 @@ Case archiving
 Role-based access control
 Secure login system
 Data validation and protection
+
+
+##System OverView(ScreenShorts)
+![landing page](screenshot/landingpage.png)
+![register](screenshot/registerUser.png)
+![login page](screenshot/loginpage.png)
+![Dashboard page](screenshot/DashboRD.png)
+![cases](screenshot/cases.png)
+![overview](screenshot/overview.png)
+![summary](screenshot/summaryreport.png)
+
