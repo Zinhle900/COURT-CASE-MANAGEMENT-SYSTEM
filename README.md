@@ -40,7 +40,7 @@ Data validation and protection
 
 
 ##System OverView(ScreenShorts)
-![landing page](screenshot/landingpage.png)
+![landing page](landingpage.png)
 ![register](screenshot/registerUser.png)
 ![login page](screenshot/loginpage.png)
 ![Dashboard page](screenshot/DashboRD.png)
